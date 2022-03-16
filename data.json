@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "categoryName": "CHRONOLOGISTE - Kérastase Products By L’Oréal",
+    "products": [
+      {
+        "PdID": 1,
+        "name": "BAIN CHRONOLOGISTE REVITALISANT",
+        "brand": "CHRONOLOGISTE",
+        "description": "This cleanser provides perfect fluidity and nutrition, enveloping the hair for ultimate suppleness and softness.",
+        "price": "C$40.00",
+        "image": "https://i.ibb.co/tsNDrXR/1.png"
+      },
+      {
+        "PdID": 2,
+        "name": "CHRONOLOGISTE CRÈME DE RÉGÉNÉRATION",
+        "brand": "CHRONOLOGISTE",
+        "description": "An intensely nourishing balm for the scalp and hair. Sublimation, in-depth nutrition and shine.",
+        "price": "C$70.00",
+        "image": "https://i.ibb.co/VSrD6vh/k2.png"
+      },
+      {
+        "PdID": 3,
+        "name": "SOIN GOMMAGE RÉNOVATEUR CHRONOLOGISTE",
+        "brand": "CHRONOLOGISTE",
+        "description": "A luxurious detoxifying and purifiying scalp and fiber treatment for all hair types. Activates & stimulates scalp.",
+        "price": "C$50.00",
+        "image": "https://i.ibb.co/hfZ4Hvy/k3.png"
+      },
+      {
+        "PdID": 4,
+        "name": "PARFUM EN HUILE CHRONOLOGISTE",
+        "brand": "CHRONOLOGISTE",
+        "description": "A perfume in oil that envelops the hair in a sensual and subtle fragrance, sublimating and perfuming the hair.",
+        "price": "C$70.00",
+        "image": "https://i.ibb.co/FHhMvTw/k4.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "THÉRAPISTE - Kérastase Products By L’Oréal",
+    "products": [
+      {
+        "PdID": 1,
+        "name": "SOIN PREMIER THÉRAPISTE",
+        "brand": "THÉRAPISTE",
+        "description": "Smart-starter conditioner for over-processed fine hair.",
+        "price": "C$40.00",
+        "image": "https://i.ibb.co/gWLYBN1/k5.png"
+      },
+      {
+        "PdID": 2,
+        "name": "BAIN THÉRAPISTE",
+        "brand": "THÉRAPISTE",
+        "description": "Balm-in-shampoo fiber quality renewal care for over-processed hair.",
+        "price": "C$40.00",
+        "image": "https://i.ibb.co/rmqZJLT/k6.png"
+      },
+      {
+        "PdID": 3,
+        "name": "MASQUE THÉRAPISTE",
+        "brand": "THÉRAPISTE",
+        "description": "Repairing bandage masque care for thick over-processed hair.",
+        "price": "C$50.00",
+        "image": "https://i.ibb.co/Fmm6mzW/k7.png"
+      },
+      {
+        "PdID": 4,
+        "name": "DOUBLE SÉRUM THÉRAPISTE",
+        "brand": "THÉRAPISTE",
+        "description": "Dual-serum for both fine and thick hair. Ends renewal care.",
+        "price": "C$58.00",
+        "image": "https://i.ibb.co/R3MfX4p/k8.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "DISCIPLINE - Kérastase Products By L’Oréal",
+    "products": [
+      {
+        "PdID": 1,
+        "name": "BAIN FLUIDEALISTE",
+        "brand": "DISCIPLINE",
+        "description": "Shampoo that gently cleanses and supplies evenly distributed care without weighing down the hair.",
+        "price": "C$42.00",
+        "image": "https://i.ibb.co/Q8pwhz0/t1.png"
+      },
+      {
+        "PdID": 2,
+        "name": "FONDANT FLUIDEALISTE",
+        "brand": "DISCIPLINE",
+        "description": "Conditioning treatment with creamy fluid emulsion for supple, nourished and strengthened hair.",
+        "price": "C$45.00",
+        "image": "https://i.ibb.co/MnxR223/t2.png"
+      },
+      {
+        "PdID": 3,
+        "name": "BAIN FLUIDEALISTE - SF",
+        "brand": "DISCIPLINE",
+        "description": "This sulfate-free shampoo benefits from a formula specially developed for over-processed hair.",
+        "price": "C$43.00",
+        "image": "https://i.ibb.co/t2mDdS8/t3.png"
+      },
+      {
+        "PdID": 4,
+        "name": "MASKERATINE",
+        "brand": "DISCIPLINE",
+        "description": "Conditioning treatment with creamy fluid emulsion for supple, nourished and strengthened hair.",
+        "price": "C$60.00",
+        "image": "https://i.ibb.co/ZgjLvTr/t4.png"
+      }
+    ]
+  }
+]
